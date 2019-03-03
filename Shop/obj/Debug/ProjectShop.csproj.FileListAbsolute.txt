@@ -1,0 +1,7 @@
+C:\GitHub\Shop\Shop\bin\Debug\Shop.exe.config
+C:\GitHub\Shop\Shop\bin\Debug\Shop.exe
+C:\GitHub\Shop\Shop\bin\Debug\Shop.pdb
+C:\GitHub\Shop\Shop\obj\Debug\ProjectShop.csprojAssemblyReference.cache
+C:\GitHub\Shop\Shop\obj\Debug\ProjectShop.csproj.CoreCompileInputs.cache
+C:\GitHub\Shop\Shop\obj\Debug\Shop.exe
+C:\GitHub\Shop\Shop\obj\Debug\Shop.pdb
